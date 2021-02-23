@@ -1,0 +1,7 @@
+* linguist-vendored
+*.dart linguist-vendored=false
+*.png linguist-vendored=false
+*.yaml linguist-vendored=false
+*.md linguist-vendored=false
+*.html linguist-vendored=false
+*.jpg linguist-vendored=false
