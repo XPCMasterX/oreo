@@ -24,5 +24,8 @@
 
 ### Screenshots of progress
 
-Date: `17:05` `23/02/2021`  
-![]('https://github.com/XPCMasterX/oreo/blob/markdown-test/dev_info/screenshots/Screenshot%202021-02-23%20171541.png')
+Date: `17:05 23/02/2021`
+
+![Screenshot](https://raw.githubusercontent.com/XPCMasterX/oreo/markdown-test/dev_info/screenshots/Screenshot%202021-02-23%20171541.png "Screenshot")
+
+The dark bit is the expanded version, and the white bit is the preview. The resizing is animated.
