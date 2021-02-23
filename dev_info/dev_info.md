@@ -25,4 +25,4 @@
 ### Screenshots of progress
 
 Date: `17:05` `23/02/2021`  
-![Screenshot]('./screenshots/Screenshot 2021-02-23 171541.png')
+![]('https://github.com/XPCMasterX/oreo/blob/markdown-test/dev_info/screenshots/Screenshot%202021-02-23%20171541.png')
